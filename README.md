@@ -3,6 +3,7 @@
 ## 🧩 Project Overview
 This dashboard provides a **comprehensive analysis** of marketing campaign performance across key dimensions — customer demographics, geographic locations, and temporal trends.  
 It supports **data-driven decision-making** for marketing optimization and **strategic budget allocation**.
+<img width="886" height="642" alt="image" src="https://github.com/user-attachments/assets/859d441d-23f4-4021-a94a-6b3505715064" />
 
 ---
 
@@ -18,7 +19,7 @@ Optimize **marketing ROI** through granular performance analysis.
 
 ---
 
-## 📈 Key Metrics Tracked
+## 📈 Key Metrics Tracked for Febuary
 
 | Metric | Description | Total |
 |:--|:--|:--|
