@@ -19,7 +19,7 @@ Optimize **marketing ROI** through granular performance analysis.
 
 ---
 
-## 📈 Key Metrics Tracked for Febuary
+## 📈 Key Metrics Tracked for February
 
 | Metric | Description | Total |
 |:--|:--|:--|
